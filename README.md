@@ -8,12 +8,12 @@ An automated car parking system is a process through which car parking can be do
 
 **Hardware Components:**
 
-Arduino UNO
-Ultrasonic Sensor
-LCD Screen
-Bread Board
-Power Supply
-Connecting Wires
+Arduino UNO,
+Ultrasonic Sensor,
+LCD Screen,
+Bread Board,
+Power Supply,
+Connecting Wires.
 
 
 **System Testing:**
