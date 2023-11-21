@@ -6,6 +6,8 @@ Smart car parking project aims at providing a confusion free and easy parking. T
 
 An automated car parking system is a process through which car parking can be done more efficiently and easily than manual method. The system will provide the user better services. The system counts the number of cars in the garage and checks if there’s any vacancy. There’s an entry and exit path. When vehicle enters, the display shows the number of cars inside. When any vehicle leaves, the count decreases and shown on display. If the garage is full. The display will show a message regarding that. This whole process includes the use of Arduino, Display and sonar. The sonar detects whether the vehicle is entering or leaving. The report then showed on display.
 
+![image](https://github.com/SambhavSaxena-1107/Smart-Parking-System/assets/126766980/d645ab3d-cc61-4cde-bfe9-cfe07afe2722)
+
 **Hardware Components:**
 
 Arduino UNO,
@@ -15,6 +17,7 @@ Bread Board,
 Power Supply,
 Connecting Wires.
 
+![image](https://github.com/SambhavSaxena-1107/Smart-Parking-System/assets/126766980/baf76884-f34d-47f1-b14c-7085fc7d6571)
 
 **System Testing:**
 
